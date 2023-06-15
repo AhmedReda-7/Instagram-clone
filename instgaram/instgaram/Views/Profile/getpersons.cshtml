@@ -1,0 +1,19 @@
+﻿@model IList<instgaram.Models.User>
+
+@{
+    ViewBag.Title = "getpersons";
+}
+<link href="~/Content/Pages.css" rel="stylesheet" />
+
+
+@{
+    foreach (var item in Model){
+        <div class="profile">
+            <img src="@item.Photo" class="profileImg" />
+            <h3 class="profileName">@item.Username</h3>
+        </div>
+   
+
+    }
+}
+

@@ -1,0 +1,636 @@
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\instgaram.dll.config
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\instgaram.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\instgaram.pdb
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\csc.exe
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\csc.exe.config
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\csc.rsp
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\csi.exe
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\csi.exe.config
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\csi.rsp
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.AppContext.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Console.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.IO.Compression.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Net.Http.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.ValueTuple.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\vbc.exe
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\vbc.exe.config
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\vbc.rsp
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\Antlr3.Runtime.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\EntityFramework.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\EntityFramework.SqlServer.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\Newtonsoft.Json.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Net.Http.Formatting.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.Helpers.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.Http.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.Http.WebHost.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.Mvc.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.Optimization.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.Razor.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.WebPages.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.WebPages.Razor.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\WebGrease.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\EntityFramework.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\EntityFramework.SqlServer.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.Helpers.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.Mvc.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.Optimization.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.Razor.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.WebPages.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.WebPages.Razor.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\Newtonsoft.Json.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\Antlr3.Runtime.pdb
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Net.Http.Formatting.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.Http.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\System.Web.Http.WebHost.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\obj\Debug\instgaram.csproj.AssemblyReference.cache
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\obj\Debug\instgaram.csproj.CoreCompileInputs.cache
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\obj\Debug\instgaram.csproj.CopyComplete
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\obj\Debug\instgaram.dll
+C:\Users\abdo\Desktop\New folder\instgaram\instgaram\obj\Debug\instgaram.pdb
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\instgaram.dll.config
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\instgaram.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\instgaram.pdb
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\csc.exe
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\csc.exe.config
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\csc.rsp
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\csi.exe
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\csi.exe.config
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\csi.rsp
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.AppContext.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Console.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.IO.Compression.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Net.Http.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Net.Sockets.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.ValueTuple.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Xml.XPath.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\vbc.exe
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\vbc.exe.config
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\vbc.rsp
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\Antlr3.Runtime.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\EntityFramework.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\EntityFramework.SqlServer.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\Newtonsoft.Json.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Net.Http.Formatting.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.Helpers.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.Http.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.Http.WebHost.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.Mvc.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.Optimization.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.Razor.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.WebPages.Deployment.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.WebPages.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.WebPages.Razor.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\WebGrease.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\EntityFramework.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\EntityFramework.SqlServer.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.Helpers.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.Mvc.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.Optimization.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.Razor.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.WebPages.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.WebPages.Deployment.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.WebPages.Razor.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\Newtonsoft.Json.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\Antlr3.Runtime.pdb
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Net.Http.Formatting.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.Http.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\System.Web.Http.WebHost.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\obj\Debug\instgaram.csproj.AssemblyReference.cache
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\obj\Debug\instgaram.csproj.CoreCompileInputs.cache
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\obj\Debug\instgaram.csproj.CopyComplete
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\obj\Debug\instgaram.dll
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\obj\Debug\instgaram.pdb
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\obj\Debug\instgaram.Migrations.f1.resources
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\obj\Debug\instgaram.csproj.GenerateResource.cache
+C:\Users\abdo\Desktop\New folder (2)\instgaram\instgaram\obj\Debug\instgaram.Migrations.f5.resources
+E:\instgaram\instgaram\bin\instgaram.dll.config
+E:\instgaram\instgaram\bin\instgaram.dll
+E:\instgaram\instgaram\bin\instgaram.pdb
+E:\instgaram\instgaram\bin\roslyn\csc.exe
+E:\instgaram\instgaram\bin\roslyn\csc.exe.config
+E:\instgaram\instgaram\bin\roslyn\csc.rsp
+E:\instgaram\instgaram\bin\roslyn\csi.exe
+E:\instgaram\instgaram\bin\roslyn\csi.exe.config
+E:\instgaram\instgaram\bin\roslyn\csi.rsp
+E:\instgaram\instgaram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\instgaram\instgaram\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\instgaram\instgaram\bin\roslyn\Microsoft.Managed.Core.targets
+E:\instgaram\instgaram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\instgaram\instgaram\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\instgaram\instgaram\bin\roslyn\System.AppContext.dll
+E:\instgaram\instgaram\bin\roslyn\System.Collections.Immutable.dll
+E:\instgaram\instgaram\bin\roslyn\System.Console.dll
+E:\instgaram\instgaram\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\instgaram\instgaram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\instgaram\instgaram\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\instgaram\instgaram\bin\roslyn\System.Globalization.Calendars.dll
+E:\instgaram\instgaram\bin\roslyn\System.IO.Compression.dll
+E:\instgaram\instgaram\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.dll
+E:\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\instgaram\instgaram\bin\roslyn\System.Net.Http.dll
+E:\instgaram\instgaram\bin\roslyn\System.Net.Sockets.dll
+E:\instgaram\instgaram\bin\roslyn\System.Reflection.Metadata.dll
+E:\instgaram\instgaram\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\instgaram\instgaram\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\instgaram\instgaram\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\instgaram\instgaram\bin\roslyn\System.ValueTuple.dll
+E:\instgaram\instgaram\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\instgaram\instgaram\bin\roslyn\System.Xml.XmlDocument.dll
+E:\instgaram\instgaram\bin\roslyn\System.Xml.XPath.dll
+E:\instgaram\instgaram\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\instgaram\instgaram\bin\roslyn\vbc.exe
+E:\instgaram\instgaram\bin\roslyn\vbc.exe.config
+E:\instgaram\instgaram\bin\roslyn\vbc.rsp
+E:\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe
+E:\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe.config
+E:\instgaram\instgaram\bin\Antlr3.Runtime.dll
+E:\instgaram\instgaram\bin\EntityFramework.dll
+E:\instgaram\instgaram\bin\EntityFramework.SqlServer.dll
+E:\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\instgaram\instgaram\bin\Microsoft.Web.Infrastructure.dll
+E:\instgaram\instgaram\bin\Newtonsoft.Json.dll
+E:\instgaram\instgaram\bin\System.Net.Http.Formatting.dll
+E:\instgaram\instgaram\bin\System.Web.Helpers.dll
+E:\instgaram\instgaram\bin\System.Web.Http.dll
+E:\instgaram\instgaram\bin\System.Web.Http.WebHost.dll
+E:\instgaram\instgaram\bin\System.Web.Mvc.dll
+E:\instgaram\instgaram\bin\System.Web.Optimization.dll
+E:\instgaram\instgaram\bin\System.Web.Razor.dll
+E:\instgaram\instgaram\bin\System.Web.WebPages.Deployment.dll
+E:\instgaram\instgaram\bin\System.Web.WebPages.dll
+E:\instgaram\instgaram\bin\System.Web.WebPages.Razor.dll
+E:\instgaram\instgaram\bin\WebGrease.dll
+E:\instgaram\instgaram\bin\EntityFramework.xml
+E:\instgaram\instgaram\bin\EntityFramework.SqlServer.xml
+E:\instgaram\instgaram\bin\System.Web.Helpers.xml
+E:\instgaram\instgaram\bin\System.Web.Mvc.xml
+E:\instgaram\instgaram\bin\System.Web.Optimization.xml
+E:\instgaram\instgaram\bin\System.Web.Razor.xml
+E:\instgaram\instgaram\bin\System.Web.WebPages.xml
+E:\instgaram\instgaram\bin\System.Web.WebPages.Deployment.xml
+E:\instgaram\instgaram\bin\System.Web.WebPages.Razor.xml
+E:\instgaram\instgaram\bin\Newtonsoft.Json.xml
+E:\instgaram\instgaram\bin\Antlr3.Runtime.pdb
+E:\instgaram\instgaram\bin\System.Net.Http.Formatting.xml
+E:\instgaram\instgaram\bin\System.Web.Http.xml
+E:\instgaram\instgaram\bin\System.Web.Http.WebHost.xml
+E:\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\instgaram\instgaram\obj\Debug\instgaram.csprojAssemblyReference.cache
+E:\instgaram\instgaram\obj\Debug\instgaram.csproj.CoreCompileInputs.cache
+E:\instgaram\instgaram\obj\Debug\instgaram.csproj.CopyComplete
+E:\instgaram\instgaram\obj\Debug\instgaram.dll
+E:\instgaram\instgaram\obj\Debug\instgaram.pdb
+E:\instgaram\instgaram\obj\Debug\instgaram.Migrations.f1.resources
+E:\instgaram\instgaram\obj\Debug\instgaram.csproj.GenerateResource.cache
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\instgaram.dll.config
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\instgaram.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\instgaram.pdb
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\csc.exe
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\csc.exe.config
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\csc.rsp
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\csi.exe
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\csi.exe.config
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\csi.rsp
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.AppContext.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Console.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Net.Http.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\vbc.exe
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\vbc.exe.config
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\vbc.rsp
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\Antlr3.Runtime.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\EntityFramework.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\EntityFramework.SqlServer.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\Newtonsoft.Json.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Net.Http.Formatting.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.Helpers.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.Http.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.Http.WebHost.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.Mvc.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.Optimization.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.Razor.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.WebPages.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\WebGrease.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\EntityFramework.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\EntityFramework.SqlServer.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.Helpers.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.Mvc.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.Optimization.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.Razor.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.WebPages.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\Newtonsoft.Json.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\Antlr3.Runtime.pdb
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Net.Http.Formatting.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.Http.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\System.Web.Http.WebHost.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\obj\Debug\instgaram.csprojAssemblyReference.cache
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\obj\Debug\instgaram.csproj.CoreCompileInputs.cache
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\obj\Debug\instgaram.csproj.CopyComplete
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\obj\Debug\instgaram.dll
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\obj\Debug\instgaram.pdb
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\obj\Debug\instgaram.Migrations.f1.resources
+C:\Users\ALKAMEL\Downloads\instgaram\instgaram\obj\Debug\instgaram.csproj.GenerateResource.cache
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\instgaram.dll.config
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\instgaram.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\instgaram.pdb
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\csc.exe
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\csc.exe.config
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\csc.rsp
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\csi.exe
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\csi.exe.config
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\csi.rsp
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.AppContext.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Console.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Net.Http.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\vbc.exe
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\vbc.exe.config
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\vbc.rsp
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\Antlr3.Runtime.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\EntityFramework.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\EntityFramework.SqlServer.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\Newtonsoft.Json.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Net.Http.Formatting.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.Helpers.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.Http.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.Http.WebHost.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.Mvc.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.Optimization.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.Razor.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.WebPages.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\WebGrease.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\EntityFramework.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\EntityFramework.SqlServer.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.Helpers.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.Mvc.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.Optimization.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.Razor.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.WebPages.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\Newtonsoft.Json.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\Antlr3.Runtime.pdb
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Net.Http.Formatting.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.Http.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\System.Web.Http.WebHost.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\obj\Debug\instgaram.csprojAssemblyReference.cache
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\obj\Debug\instgaram.Migrations.f1.resources
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\obj\Debug\instgaram.csproj.GenerateResource.cache
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\obj\Debug\instgaram.csproj.CoreCompileInputs.cache
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\obj\Debug\instgaram.csproj.CopyComplete
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\obj\Debug\instgaram.dll
+C:\Users\ALKAMEL\Downloads\New folder\instgaram\instgaram\obj\Debug\instgaram.pdb
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\instgaram.dll.config
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\instgaram.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\instgaram.pdb
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\csc.exe
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\csc.exe.config
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\csc.rsp
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\csi.exe
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\csi.exe.config
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\csi.rsp
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.AppContext.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Console.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.IO.Compression.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Net.Http.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Net.Sockets.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.ValueTuple.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Xml.XPath.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\vbc.exe
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\vbc.exe.config
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\vbc.rsp
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\Antlr3.Runtime.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\EntityFramework.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\EntityFramework.SqlServer.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\Newtonsoft.Json.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Net.Http.Formatting.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.Helpers.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.Http.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.Http.WebHost.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.Mvc.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.Optimization.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.Razor.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.WebPages.Deployment.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.WebPages.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.WebPages.Razor.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\WebGrease.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\EntityFramework.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\EntityFramework.SqlServer.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.Helpers.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.Mvc.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.Optimization.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.Razor.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.WebPages.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.WebPages.Deployment.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.WebPages.Razor.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\Newtonsoft.Json.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\Antlr3.Runtime.pdb
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Net.Http.Formatting.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.Http.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\System.Web.Http.WebHost.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\olafa\Downloads\instgaram\instgaram\obj\Debug\instgaram.csprojAssemblyReference.cache
+C:\Users\olafa\Downloads\instgaram\instgaram\obj\Debug\instgaram.csproj.CoreCompileInputs.cache
+C:\Users\olafa\Downloads\instgaram\instgaram\obj\Debug\instgaram.csproj.CopyComplete
+C:\Users\olafa\Downloads\instgaram\instgaram\obj\Debug\instgaram.dll
+C:\Users\olafa\Downloads\instgaram\instgaram\obj\Debug\instgaram.pdb
+C:\Users\olafa\Downloads\instgaram\instgaram\obj\Debug\instgaram.Migrations.f1.resources
+C:\Users\olafa\Downloads\instgaram\instgaram\obj\Debug\instgaram.csproj.GenerateResource.cache
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\instgaram.dll.config
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\instgaram.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\instgaram.pdb
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\csc.exe
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\csc.exe.config
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\csc.rsp
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\csi.exe
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\csi.exe.config
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\csi.rsp
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.AppContext.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Collections.Immutable.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Console.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Globalization.Calendars.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.IO.Compression.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Net.Http.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Net.Sockets.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Reflection.Metadata.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.ValueTuple.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Xml.XPath.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\vbc.exe
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\vbc.exe.config
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\vbc.rsp
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\roslyn\VBCSCompiler.exe.config
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\Antlr3.Runtime.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\EntityFramework.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\EntityFramework.SqlServer.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\Microsoft.Web.Infrastructure.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\Newtonsoft.Json.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Net.Http.Formatting.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.Helpers.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.Http.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.Http.WebHost.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.Mvc.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.Optimization.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.Razor.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.WebPages.Deployment.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.WebPages.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.WebPages.Razor.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\WebGrease.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\EntityFramework.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\EntityFramework.SqlServer.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.Helpers.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.Mvc.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.Optimization.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.Razor.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.WebPages.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.WebPages.Deployment.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.WebPages.Razor.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\Newtonsoft.Json.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\Antlr3.Runtime.pdb
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Net.Http.Formatting.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.Http.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\System.Web.Http.WebHost.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\obj\Debug\instgaram.csprojAssemblyReference.cache
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\obj\Debug\instgaram.Migrations.f1.resources
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\obj\Debug\instgaram.csproj.GenerateResource.cache
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\obj\Debug\instgaram.csproj.CoreCompileInputs.cache
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\obj\Debug\instgaram.csproj.CopyComplete
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\obj\Debug\instgaram.dll
+D:\Mix\Ahmed\Courses\Programming\FCAI\New folder\instgaram\instgaram\instgaram\obj\Debug\instgaram.pdb

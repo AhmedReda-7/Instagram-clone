@@ -1,0 +1,175 @@
+﻿@{
+    ViewBag.Title = "Signup";
+}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <style media="screen">
+        body {
+            margin: 0;
+            color: #fff;
+            background: linear-gradient(to right, #8A2387, #4a3852, #4a3852);
+            font: 600 16px/18px 'Open Sans',sans-serif;
+        }
+
+        *, :after, :before {
+            box-sizing: border-box
+        }
+
+        .clearfix:after, .clearfix:before {
+            content: '';
+            display: table
+        }
+
+        .clearfix:after {
+            clear: both;
+            display: block
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none
+        }
+
+        .login-wrap {
+            width: 100%;
+            margin: auto;
+            max-width: 2000px;
+            min-height: 1000px;
+            position: relative;
+            background-size: 2000px 600px;
+            box-shadow: 0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+        }
+
+        .login-html {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            padding: 90px 70px 50px 70px;
+            background: linear-gradient(to right, #8A2387, #4a3852,#4a3852 );
+        }
+
+            .login-html .sign-in,
+            .login-html .sign-up,
+            .login-form .group .check {
+                display: none;
+            }
+
+            .login-html .tab {
+                font-size: 22px;
+                margin-right: 15px;
+                padding-bottom: 5px;
+                margin: 0 100px 60px 0;
+                display: inline-block;
+            }
+
+        .login-form .group {
+            margin-bottom: 30px;
+        }
+
+            .login-form .group .label,
+            .login-form .group .input,
+            .login-form .group .button {
+                width: 100%;
+                color: rgb(128, 128, 128);
+                display: block;
+                outline: none;
+            }
+
+            .login-form .group .input,
+            .login-form .group .button {
+                border: none;
+                padding: 15px 20px;
+                border-radius: 25px;
+                background: rgba(255,255,255,.1);
+            }
+
+            .login-form .group .button {
+                background: #ea11ee;
+            }
+
+        .upload {
+            color: #aaa;
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+
+        input[type=button] {
+            background-color: transparent;
+            border: none;
+            text-decoration: none;
+            color: #aaa;
+            padding: 20px 20px;
+            margin: 20px 20px;
+            cursor: pointer;
+            color: #fff;
+            border-color: #ea11ee;
+            font-size: 22px;
+            font-weight: bold;
+        }
+
+        .center {
+            margin-left: 60px;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="/Home/Signup" enctype="multipart/form-data">
+        <div class="login-wrap">
+            <div class="login-html">
+                <center>
+                    <a href="/Home/Index" for="tab-1" class="tab"><input id="tab-1" type="button" name="tab" class="sign-in">Sign In</a>
+                    <input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab">Sign Up</label>
+                </center>
+                    <div class="login-form">
+                    <div class="sign-up-htm">
+
+                        <div class="center">
+                            <div class="group">
+                                <label for="fname">First Name</label>
+                                <input id="fname" type="text" class="input" name="Fname" required>
+                            </div>
+                            <div class="group">
+                                <label for="lname">Last Name</label>
+                                <input id="lname" type="text" class="input" name="Lname" required>
+                            </div>
+                            <div class="group">
+                                <label for="num">Phone Number</label>
+                                <input id="num" type="text" class="input" name="Phone" required>
+                            </div>
+                            <div class="group">
+                                <label for="user">Username</label>
+                                <input id="user" type="text" class="input" name="username" required>
+                            </div>
+                            <div class="group">
+                                <label for="pass">Password</label>
+                                <input id="pass" type="password" class="input" data-type="password" name="password" required>
+                            </div>
+                            <div class="group">
+                                <label for="pass">Re-Password</label>
+                                <input id="pass" type="password" class="input" data-type="password" name="repassword" required>
+                            </div>
+                            <div class="group">
+                                <label for="pass">Email Address</label>
+                                <input id="pass" type="email" class="input" name="email" required>
+                            </div>
+                            <div class="upload">
+                                <div class="fileUpload btn ">
+                                    <input id="uploadBtn" type="file" class="upload" name="photo" required />
+                                </div>
+                            </div>
+                            <div class="group">
+                                <input type="submit" class="button" value="Sign Up">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+             </div>
+        </div>
+
+    </form>
+</body>
+</html>

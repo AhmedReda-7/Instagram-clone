@@ -1,0 +1,23 @@
+﻿
+
+@{
+    ViewBag.Title = "friends";
+}
+<link href="~/Content/Pages.css" rel="stylesheet" />
+
+
+
+
+<div style="display:table">
+    @{foreach (var item in Model)
+        {
+            <div class="profile" style="float:left">
+                <a href="ShowFriend/@item.Id">
+                    <img src="@item.Friend.Photo" class="profileImg" />
+                </a>
+                <h3 class="profileName">@item.Friend.FName @item.Friend.LName</h3>
+            </div>
+        }
+    }
+</div>
+

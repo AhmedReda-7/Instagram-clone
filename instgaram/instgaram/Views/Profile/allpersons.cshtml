@@ -1,0 +1,26 @@
+﻿@model IList<instgaram.Models.User>
+
+@{
+    ViewBag.Title = "allpersons";
+}
+<link href="~/Content/Pages.css" rel="stylesheet" />
+
+
+
+@{
+    foreach (var item in Model)
+    {
+        <div class="card">
+            <img src="@item.Photo" alt="Avatar" style="width:100%">
+            <div class="container">
+                <h3>@item.Username</h3>
+                <a href="/Profile/addfriend/@item.Id" style="background-color: cornflowerblue;color: white;padding: 10px 10px;border-radius: 12px;text-align: center;text-decoration: none;display: inline-block;">Add friend</a>
+            </div>
+        </div>
+
+
+
+
+
+    }
+}

@@ -1,0 +1,61 @@
+﻿@{
+    ViewBag.Title = "addpost";
+}
+<style>
+
+    .label_one {
+        font-size: 40px;
+        font-weight: 400;
+        cursor: pointer;
+    }
+
+    .label_two {
+        width: 400px;
+        font-size: 20px;
+        font-weight: 400;
+        padding: 20px;
+        border: none;
+        background-color: dodgerblue;
+        color: white;
+        cursor: pointer;
+    }
+
+    input.file {
+        display: none;
+        font-size: 30px;
+        font-weight: 400;
+    }
+
+    .inputsubmit {
+        border: none;
+        text-align: center;
+        border-radius: 10px;
+        padding: 15px;
+        width: 100px;
+        text-transform: uppercase;
+        font-size: 16px;
+        font-weight: bold;
+        color: dodgerblue;
+    }
+</style>
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<form method="post" action="/profile/addpost" enctype="multipart/form-data">
+    <label for="photo" class="label_one">Upload Post On Instagram </label>
+    <br />
+    <br />
+    <label for="photo" class="label_two">
+        Select an Image...
+    </label>
+    <input id="photo" type="file" name="photo" class="file" />
+    <br />
+    <br />
+    <input type="submit" value="Send" class="inputsubmit" />
+
+</form>
+
+

@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "ShowFriend";
+}
+<link href="~/Content/Pages.css" rel="stylesheet" />
+
+
+
+<div class="profile">
+    <img src="@Model.Friend.Photo" class="profileImg" />
+    <h3 class="profileName">@Model.Friend.FName @Model.Friend.LName</h3>
+</div>
+
+@{foreach (var item in Model.Friend.posts)
+    {
+        <div class="post">
+            <center>
+                <img src="@item.photo" class="postimg"/>
+            </center>
+            <br />
+            @{foreach (var i in item.Comments)
+                {
+                    <h3 class="comm">@i.commenttext</h3>
+                }
+            }
+            <br />
+            <center>
+                <input type="text" id="@item.Id" placeholder="Add a comment..." class="inputtxt"/>
+                <input type="button" onclick="sendcomment('@item.Id','@Session["Userid"]')" value="send" class="inputsubmit" />
+                <br />
+                <h4>@item.PostLike likes</h4>
+                <h4>
+                    @Html.ActionLink("Like", "Like", new { id = item.Id }) &emsp;
+                    @Html.ActionLink("DisLike", "DisLike", new { id = item.Id })
+                </h4>
+            </center>
+        </div>
+
+    }
+}
+
+<script src="~/Scripts/Comment.js"></script>

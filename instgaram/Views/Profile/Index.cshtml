@@ -1,0 +1,67 @@
+﻿@model instgaram.Models.User
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<html>
+<head>
+    <link rel="stylesheet" href="css/all.min.css">
+    <link href="~/Content/Pages.css" rel="stylesheet" />
+</head>
+<body>
+        
+    <div class="all">
+        <div class="profile">
+            <br />
+            <br />
+            <img src="@Model.Photo" class="profileImg" />
+        </div>
+
+        <div class="row-one">
+            <br />
+            <br />
+            <br />
+
+            <h3 class="profileName">@Model.FName @Model.LName</h3>
+            <div class="button">
+                <a href="/Profile/addpost">
+                    <div>Add Post</div>
+                </a>
+            </div>
+
+        </div>
+    </div>
+
+    @{foreach (var item in Model.posts)
+        {
+            <div class="post">
+                <center>
+                    <img src="@item.photo" class="postimg" />
+                </center>
+                <br />
+                @{foreach (var i in item.Comments)
+                    {
+                        <h3 class="comm">@i.commenttext</h3>
+                    }
+                }
+                <br />
+                <center>
+                    <input  type="text" id="@item.Id" placeholder="Add a comment..." class="inputtxt" />
+                    <input  type="button" onclick="sendcomment('@item.Id','@Session["Userid"]')" value="send"class="inputsubmit" />
+                    <br />
+                    <h4>@item.PostLike likes</h4>
+                    <h4>
+                        @Html.ActionLink("Like", "Like", new { id = item.Id }) &emsp;
+                        @Html.ActionLink("DisLike", "DisLike", new { id = item.Id })
+                    </h4>
+                </center>
+            </div>
+        }
+    }
+
+</body>
+</html>
+
+
+<script src="~/Scripts/Comment.js"></script>
